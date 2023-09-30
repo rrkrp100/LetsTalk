@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7fDAVpMO2IWrdcWSdqVRcycvodLndIL1SEO1SEYxdTjnTNRTy1OIZ2L0/kfeRIyODNlT13JbCJHLrcYYsrnmnA==",
+  "success": true,
+  "projectFilePath": "D:\\progs\\dotnet\\LetsTalk\\DataHandler\\DataHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrkrp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

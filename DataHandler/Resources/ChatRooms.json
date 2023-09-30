@@ -1,0 +1,14 @@
+[
+  {
+    "chatRoomId": "0b361abc-e689-4fd8-b750-0bfaed963f61",
+    "name": "ChatRoom1",
+    "desc": "Chat Room 1 Description",
+    "users": [ "8b361abc-e689-4fd8-b750-0bfaed963f63", "8b361abc-e689-4fd8-b750-0bfaed963f64", "8b361abc-e689-4fd8-b750-0bfaed963f65" ]
+  },
+  {
+    "chatRoomId": "0b361abc-e689-4fd8-b750-0bfaed963f62",
+    "name": "ChatRoom2",
+    "desc": "Chat Room 2 Description",
+    "users": []
+  }
+]

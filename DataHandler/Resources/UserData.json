@@ -1,0 +1,29 @@
+{
+  "rahulpndy7": {
+    "UserId": "8b361abc-e689-4fd8-b750-0bfaed963f63",
+    "UserName": "rahulpndy7",
+    "Password": "abcd1234",
+    "Name": "Rahul Pandey",
+    "Role": "admin",
+    "Email": "rahulpndy7@gmail.com",
+    "ChatRooms": [ "0b361abc-e689-4fd8-b750-0bfaed963f61" ]
+  },
+  "rrkrp100": {
+    "UserId": "8b361abc-e689-4fd8-b750-0bfaed963f64",
+    "UserName": "rrkrp100",
+    "Password": "Roxa@&1415",
+    "Name": "Rahul Pandey",
+    "Role": "owner",
+    "Email": "rrkrp100@gmail.com",
+    "ChatRooms": [ "0b361abc-e689-4fd8-b750-0bfaed963f61" ]
+  },
+  "scumswish": {
+    "UserId": "8b361abc-e689-4fd8-b750-0bfaed963f65",
+    "UserName": "scumswish",
+    "Password": "abcd1234",
+    "Name": "Rahul Pandey",
+    "Role": "default",
+    "Email": "rrkrp100@gmail.com",
+    "ChatRooms": [ "0b361abc-e689-4fd8-b750-0bfaed963f61" ]
+  }
+}

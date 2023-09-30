@@ -1,0 +1,19 @@
+[
+  {
+    "messageId": "1b361abc-e689-4fd8-b750-0bfaed963f61",
+    "timeSent": "2023-09-27T16:52:02.276Z",
+    "senderId": "8b361abc-e689-4fd8-b750-0bfaed963f63",
+    "content": "This is the older message.",
+    "type": "text",
+    "chatRoomId": "0b361abc-e689-4fd8-b750-0bfaed963f61"
+
+  },
+  {
+    "messageId": "1b361abc-e689-4fd8-b750-0bfaed963f62",
+    "timeSent": "2023-09-27T16:55:02.276Z",
+    "senderId": "8b361abc-e689-4fd8-b750-0bfaed963f63",
+    "content": "This is the newer message.",
+    "type": "text",
+    "chatRoomId": "0b361abc-e689-4fd8-b750-0bfaed963f61"
+  }
+]
